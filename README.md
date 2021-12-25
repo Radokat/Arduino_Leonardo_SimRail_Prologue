@@ -14,3 +14,7 @@ Connect a button to pin 10 for operation the right door.
   
 Adapt the potentiometer values in the script corresponding to your potentiometers/liking, mine are for RSA0N12-LIN10K.  
 https://www.reichelt.de/schiebepotentiometer-stereo-10-kohm-linear-rsa0n12-lin10k-p73873.html
+
+
+## Files  
+[EN96](Simrail_Leonardo_EN96.ino)
