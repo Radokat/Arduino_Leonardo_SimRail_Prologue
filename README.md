@@ -1,10 +1,10 @@
 # Arduino_Leonardo_SimRail_Prologue
 Controlling "SimRail - The Railway Simulator: Prologue" via an Arduino Leonardo.
 ## Requirements:
-* Arduino Leonardo
-* 2 potentiometers of your choice
-* 3 buttons
-* 3 10k resistors
+* 1 * Arduino Leonardo
+* 2 * Potentiometers of your choice.
+* 3 * Buttons
+* 3 * 10k resistors for the buttons.
 ## Connections:
 Connect a potentiometer to A0 to regulate the power.  
 Connect a potentiometer to A1 to regulate the local brake.  
