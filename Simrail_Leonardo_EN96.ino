@@ -1,5 +1,7 @@
 /*
   POC for Simrail EN96 Leonardo to keyboard.
+  A0 for power handle.
+  A1 for local brake.
 */
 #define FASTADC 1
 
