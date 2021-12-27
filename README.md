@@ -17,4 +17,4 @@ https://www.reichelt.de/schiebepotentiometer-stereo-10-kohm-linear-rsa0n12-lin10
 
 
 ## Files  
-[EN96](Simrail_Leonardo_EN96.ino)
+[EN96](Simrail_Leonardo_EN96.ino) (A0 Power / A1 Local brake)
